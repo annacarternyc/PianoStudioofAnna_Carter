@@ -1,0 +1,96 @@
+.navigation{
+    width:100vw;
+    height:50px;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: rgb(161, 187, 241);
+}
+
+.common{
+    text-align:center;
+    position:static;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+
+.tableau{
+width: 75vw;
+height:auto;
+text-align: center;
+margin-left:auto;
+margin-right:auto;
+padding: 22px;
+}
+
+.footer{
+    text-align:center;
+    width:100vw;
+    height:70px;
+    border-top:3px solid rgb(161, 187, 241);
+    margin-left:auto;
+    margin-right:auto;
+    background-color:rgb(161, 187, 241);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+a:hover{
+    color:red;
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{ color:black;
+    text-decoration: None;
+ }
+
+
+
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.blue_text{
+    color:blue;
+    Font-size: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.img_container{
+    width: 50%;
+}
+
+p{
+    padding: 5px;
+    border-radius: 13px;
+}
+
+.red_text{
+    color:red
+}
+
+
+
+
+
+
+
+
+.nav_div{
+    height: 15px;
+    border:3px solid rgb(161, 187, 241);
+    border-radius:4px;
+    padding: 4px;
+    float:right;
+    margin-right: 5px;
+    margin-top: 5px;
+    width: 20vw;
+    position:fixed;
+}
+
+
+.nav_link:hover{
+    font-size:12px;
+
+}

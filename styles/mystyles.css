@@ -1,0 +1,46 @@
+.pink_text{
+    color:pink;
+}
+
+.themainheading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+}
+
+.post-preview{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+}
+
+.subheading2{
+    text-decoration: underline;
+    font-size: xx-large;
+}
+
+ol{
+    font-weight: bold;
+}
+
+ul{
+    font-weight: normal;
+}
+
+.italics{
+    font-style: italic;
+}
+
+.underline2{
+    text-decoration: underline;
+}
+
+.test{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    color:pink;
+}
